@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-07 20:51:43</sys_created_on>
+        <sys_id>f95c459d2d1533007f44881240fae3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_hello_world_table.x_snc_hello_world.user</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">2d5ccd5d2d1533007f44881240fae3b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">2d5ccd5d2d1533007f44881240fae3b6</sys_scope>
+        <sys_security_acl display_value="x_snc_hello_world_table">755c459d2d1533007f44881240fae3f8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f95c459d2d1533007f44881240fae3fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-07 20:51:43</sys_updated_on>
+        <sys_user_role display_value="x_snc_hello_world.user" name="x_snc_hello_world.user">ad5c459d2d1533007f44881240fae3a5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
